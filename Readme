@@ -1,0 +1,13 @@
+Reto Sofka Naves Espaciales
+
+Descripcion del proyecto
+Use programacion orientada a objetos en Java, Herencia, metodos abstractos, interfaces
+
+
+Identifique la clase abstracta Vehiculo, de esta hereda la clase Nave, como intefaz NaveEspacial
+
+
+Clases heredadas NaveNoTripulada,NaveTripulada,VehiculoLanzadera
+
+
+Contiene metodos para crear naves segun su clase, y un buscador
