@@ -25,7 +25,7 @@ public class Main {
         // Un do-while con switch case para simular un menu
         do {
             valor = Integer.parseInt(JOptionPane.showInputDialog("Ingrese que nave espacial desea crear \n" +
-                    "1. Vechiculo Lanzadera \n" +
+                    "1. Vehiculo Lanzadera \n" +
                     "2. Nave espacial no tripulada \n" +
                     "3. Nave espacial tripulada \n" +
                     "4. Filtrar naves por tipo \n" +
